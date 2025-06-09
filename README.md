@@ -1,4 +1,4 @@
-# Numerical solution of the toroidal wave equation
+# Numerical solution of the wave equation
 環形波動方程數值解
 #
 1.TermP_v4.ipynb為FFT版，運算速度較快
